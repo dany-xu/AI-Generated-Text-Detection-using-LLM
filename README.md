@@ -4,7 +4,7 @@ This project is finished during April, 2024 - May, 2024 as the final project for
 
 Work distribution:
 
-Danying Xu - llama, chatgpt, bert, baseline models
+Danying Xu - llama, chatgpt, bert, baseline models, simple data processing
 
 Matt Feng - Big Data
 
