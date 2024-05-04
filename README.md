@@ -8,4 +8,4 @@ Danying Xu - llama, chatgpt, bert, 3 baseline models, simple data processing
 
 Matt Feng - MongoDB, Apache Spark Tool
 
-John Choi - transformer, one-shot
+John Choi - transformer, zero-shot
