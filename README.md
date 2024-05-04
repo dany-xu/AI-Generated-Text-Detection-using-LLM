@@ -6,6 +6,6 @@ Work distribution:
 
 Danying Xu - llama, chatgpt, bert, 3 baseline models, simple data processing
 
-Matt Feng - Big Data
+Matt Feng - MongoDB, Apache Spark Tool
 
 John Choi - transformer, one-shot
