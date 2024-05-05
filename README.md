@@ -4,7 +4,7 @@ This project is finished during April, 2024 - May, 2024 as the final project for
 
 ## Work distribution
 
-Danying Xu - llama, chatgpt, bert, 3 baseline models, data processing
+Danying Xu - LlaMa2, ChatGPT3.5, BERT, 3 baseline models, data processing
 
 Matt Feng - MongoDB, Apache Spark Tool, data processing
 
