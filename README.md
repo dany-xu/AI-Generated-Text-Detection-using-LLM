@@ -4,8 +4,8 @@ This project is finished during April, 2024 - May, 2024 as the final project for
 
 Work distribution:
 
-Danying Xu - llama, chatgpt, bert, 3 baseline models, simple data processing
+Danying Xu - llama, chatgpt, bert, 3 baseline models, data processing
 
-Matt Feng - MongoDB, Apache Spark Tool
+Matt Feng - MongoDB, Apache Spark Tool, data processing
 
-John Choi - transformer, zero-shot
+John Choi - 
