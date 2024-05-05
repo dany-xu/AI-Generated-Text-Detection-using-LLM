@@ -18,5 +18,5 @@ Instrctuions:
 
 - LLaMa: similar to BERT except that the finetuning did not work out due to incapacity of colab's T4 GPU.
 
-- ChatGPT 3.5: to ensure the successful use of Azure OpenAI, apply for right using it on Azure. After this, build a OpenAI project and choose your own model according to their prices. Save the key and path to fill in the relative parts in the codes to run.
+- ChatGPT 3.5: to ensure the successful use of Azure OpenAI, apply for right using it on Azure. After this, build a OpenAI project and choose your own model according to their prices. Save the key and path to fill in the relative parts in the codes to run. This does not require GPU on colab or Azure notebook.
 
