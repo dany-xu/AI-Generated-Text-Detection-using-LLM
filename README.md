@@ -25,5 +25,4 @@ Documents and codes and be run directly on Google Colab.
 
 
 
-Please be aware that the text database is stored on MongoDB Atlas for secure data processing and management and hence could not be fetched directly in `data_preprocessing.ipynb`, `data_processing.ipynb` and `text_data_analysis.ipynb` for the data from these documents were based on the original database in microsoft excel format.
-
+Please be aware that the text database is stored on MongoDB Atlas for secure data processing and management and hence could not be fetched directly in `data_preprocessing.ipynb`, `data_processing.ipynb` and `text_data_analysis.ipynb`. The data of these documents are  unaltered original data and are stored locally in microsoft excel format.
