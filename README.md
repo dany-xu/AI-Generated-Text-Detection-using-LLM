@@ -8,7 +8,7 @@ Danying Xu - LlaMa2, ChatGPT3.5, BERT, 3 baseline models, data processing
 
 Matt Feng - MongoDB, Apache Spark Tool, data analysis & preprocessing
 
-John Choi - 
+John Choi - BERT2.0, data testing with our generated text data
 
 ## Instrctuions
 
